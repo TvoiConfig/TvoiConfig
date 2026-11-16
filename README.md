@@ -4,9 +4,9 @@
 
 **Enterprise development, web technologies, Linux systems and infrastructure.**
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-Resume-FF0000?style=for-the-badge)](YOUR_HH_PROFILE_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Daniilwork1ng)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duma1daniil@gmail.com)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-Resume-FF0000?style=for-the-badge)](https://hh.ru/resume/69e1b30cff0f1a790a0039ed1f6b6d6a6f3861)
 
 </div>
 
